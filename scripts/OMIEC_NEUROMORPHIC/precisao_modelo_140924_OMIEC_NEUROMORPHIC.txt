@@ -1,0 +1,3 @@
+Data: 140924 
+Arquivos: ('../../dataframes/llama3-70B-OMIEC_NEUROMORPHIC030924_0.2_temp_dict2_RESPONSES.xlsx', '../../data/raw/OMIEC_NEUROMORPHIC_20_08_24_v2.xlsx') 
+Taxa de acerto do modelo: 0.6470588235294118 
